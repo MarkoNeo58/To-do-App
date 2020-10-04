@@ -25,7 +25,7 @@ $("input[type='text']").keypress(function(event){
     }
 });
 
-// plus sing functionality
+// plus sign functionality
 $(".fa-plus").click(function(){
     $("input[type='text']").fadeToggle();
 });
